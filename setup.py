@@ -8,12 +8,12 @@ setup(
         line.strip()
         for line in open("requirements/base.txt")
     ],
-    author="Tu Nombre",
-    author_email="tu@email.com",
+    author="Jairo Vera",
+    author_email="jairoverapezo@gmail.com",
     description="Sistema de detección de EPPs usando YOLOv5",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/tu-usuario/epp-detection-system",
+    url="https://github.com/Jajojovp/epp-detection-system",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
