@@ -1,0 +1,9 @@
+torch>=1.7.0
+torchvision>=0.8.1
+opencv-python>=4.5.1
+pillow>=8.0.1
+pyyaml>=5.4.1
+pandas>=1.2.0
+streamlit>=0.85.0
+albumentations>=1.0.0
+numpy>=1.19.2

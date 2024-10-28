@@ -1,3 +1,33 @@
+# Python y otros
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+.eggs/
+*.egg-info/
+*.db
+*.log
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDEs y otros
+.idea/
+.vscode/
+.ipynb_checkpoints
+models/*.pt
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
